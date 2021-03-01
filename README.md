@@ -5,7 +5,7 @@ A Chrome extension to show the cast of currently Playing Movie!!!
 ## Objective
 Netflix doesn't show cast names on Pausing like Primevideo does , I made this extension to make the watching experience more good with a little feature
 
-### To test the extension, you can download the packed release from [here](https://github.com/Aakashk14/Netflix-extension/releases/download/1.0/cast.crx)
+### To test the extension, you can download the packed extension release from [here](https://github.com/Aakashk14/Netflix-extension/releases/download/1.0/cast.crx) 
 
 
 ## Build
